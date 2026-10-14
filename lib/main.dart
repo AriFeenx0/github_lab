@@ -12,7 +12,7 @@ class MyPage extends StatefulWidget {
 }
  
 class _MyPageState extends State<MyPage> {
-  String message = 'ยังไม่ได้กดปุ่ม';
+  String message = 'ยังไม่ได้กดปุ่มม';
  
   @override
   Widget build(BuildContext context) {
@@ -36,4 +36,4 @@ class _MyPageState extends State<MyPage> {
       ),
     );
   }
-}
+} 
